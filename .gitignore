@@ -1,0 +1,4 @@
+.idea/*
+cliServ/__pycache__/*
+cliServ/__init__.py
+
